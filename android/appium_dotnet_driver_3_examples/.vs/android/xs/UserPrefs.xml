@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{41750684-85C3-4F6C-9B7A-F8141025E30A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="local-test/BrowserStackNUnitTest.cs">
+    <Files>
+      <File FileName="App.config" Line="11" Column="41" />
+      <File FileName="local-test/LocalTest.cs" Line="1" Column="1" />
+      <File FileName="local-test/BrowserStackNUnitTest.cs" Line="111" Column="6" />
+      <File FileName="ParallelTestMultipleDevice/MultipleTestOnMultipleDevices.cs" Line="68" Column="26" />
+      <File FileName="first-test/FirstTest.cs" Line="9" Column="21" />
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="parallel-test/ParallelTest.cs" Line="18" Column="81" />
+      <File FileName="parallel-test/ParallelTest1.cs" Line="31" Column="6" />
+      <File FileName="ParallelTestMultipleDevice/MultipleTestOnMultipleDevices1.cs" Line="16" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="android" expanded="True">
+            <Node name="android" expanded="True">
+              <Node name="first-test" expanded="True" />
+              <Node name="local-test" expanded="True">
+                <Node name="BrowserStackNUnitTest.cs" selected="True" />
+              </Node>
+              <Node name="parallel-test" expanded="True" />
+              <Node name="ParallelTestMultipleDevice" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="android" expanded="True">
+            <Node name="android" expanded="True">
+              <Node name="android.first" expanded="True" />
+              <Node name="android.local" expanded="True" />
+              <Node name="android.parallel" expanded="True">
+                <Node name="ParallelTest(&quot;parallel&quot;,&quot;pixel-3&quot;)" expanded="True" />
+                <Node name="ParallelTest1(&quot;parallel&quot;,&quot;pixel-3&quot;)" expanded="True" />
+              </Node>
+              <Node name="android.ParallelTestMultipleDevice" expanded="True">
+                <Node name="MultipleTestOnMultipleDevices" expanded="True" selected="True">
+                  <Node name="MultipleTestOnMultipleDevices(&quot;parallel&quot;,&quot;pixel-3&quot;)" expanded="True" />
+                  <Node name="MultipleTestOnMultipleDevices(&quot;parallel&quot;,&quot;samsung-note20&quot;)" expanded="True" />
+                  <Node name="MultipleTestOnMultipleDevices(&quot;parallel&quot;,&quot;samsung-note21&quot;)" expanded="True" />
+                </Node>
+                <Node name="MultipleTestOnMultipleDevices1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.android PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bhagyesh/Desktop/nunit-appium-app-browserstack/android/appium_dotnet_driver_3_examples/parallel-test/BrowserStackNUnitTest.cs" relfile="parallel-test/BrowserStackNUnitTest.cs" line="18" column="1" />
+      <Breakpoint file="/Users/bhagyesh/Desktop/nunit-appium-app-browserstack/android/appium_dotnet_driver_3_examples/packages.config" relfile="packages.config" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
